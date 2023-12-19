@@ -53,7 +53,7 @@ WEAPON DETAILS :
 <table>  
 
 ARMORY DETAILS :   
-<table></table>          
+<table>         
 <th>BASE_NAME  </th>       <th>COLONEL_ID    </th>           <th> PASSWORD</th>
 <tr><td>BETA</td>              <td>E2BF40</td>                  <td>BETA@789</td></tr>
 <tr><td>META   </td>           <td>E1MF39    </td>             <td> META@789</td></tr>
