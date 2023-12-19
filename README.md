@@ -37,33 +37,40 @@ EMPLOYEE DETAILS :
 <table>
 <th>BASE_NAME</th>       <th>FIELD_MARSHAL_ID  </th>         <th> PASSWORD</th>
 <tr><td>BETA</td>              <td>E2BF47</td>                  <td>BETA@123</td></tr>
-<td>META  </td>            <td>E1MF48  </td>                <td>META@123</td>
-<td>PARA  </td>            <td>E3PF46  </td>                <td>PARA@123</td>
-<td>SOUL   </td>           <td>E4SF47   </td>               <td>SOUL@123</td>
-<td>HEAD QUARTERS </td>       <td>H06075    </td>              <td>HEAD@123</td>
+<tr><td>META  </td>            <td>E1MF48  </td>                <td>META@123</td></tr>
+<tr><td>PARA  </td>            <td>E3PF46  </td>                <td>PARA@123</td></tr>
+<tr><td>SOUL   </td>           <td>E4SF47   </td>               <td>SOUL@123</td></tr>
+<tr><td>HEAD QUARTERS </td>       <td>H06075    </td>              <td>HEAD@123</td></tr>
 </table>
-WEAPON DETAILS :           BASE_NAME           GENERAL_ID                PASSWORD
-                               BETA              E2BF43                  BETA@456
-                               META              E1MF41                  META@456
-                               PARA              E3PF42                  PARA@456
-                               SOUL              E4SF40                  SOUL@456
-                            HEAD QUARTERS        H06075                  HEAD@456
+WEAPON DETAILS : 
+<table>        
+<th>BASE_NAME</th>           <th>GENERAL_ID</th>                <th>PASSWORD</th>
+<tr><td>BETA</td>              <td>E2BF43</td>                  <td>BETA@456</td></tr>
+<tr><td>META</td>              <td>E1MF41 </td>                 <td>META@456</td></tr>
+<tr><td>PARA </td>             <td>E3PF42 </td>                 <td>PARA@456</td></tr>
+<tr><td>SOUL  </td>            <td>E4SF40  </td>                <td>SOUL@456</td></tr>
+<tr><td>HEAD QUARTERS </td>       <td>H06075  </td>                <td>HEAD@456</td></tr>
+<table>  
 
-ARMORY DETAILS :             BASE_NAME         COLONEL_ID                PASSWORD
-                               BETA              E2BF40                  BETA@789
-                               META              E1MF39                  META@789
-                               PARA              E3PF38                  PARA@789
-                               SOUL              E4SF39                  SOUL@789
-                            HEAD QUARTERS        H06075                  HEAD@789
+ARMORY DETAILS :   
+<table></table>          
+<th>BASE_NAME  </th>       <th>COLONEL_ID    </th>           <th> PASSWORD</th>
+<tr><td>BETA</td>              <td>E2BF40</td>                  <td>BETA@789</td></tr>
+<tr><td>META   </td>           <td>E1MF39    </td>             <td> META@789</td></tr>
+<tr><td>PARA  </td>            <td>E3PF38   </td>              <td> PARA@789</td></tr>
+<tr><td>SOUL   </td>           <td>E4SF39   </td>               <td>SOUL@789</td></tr>
+<tr><td>HEAD QUARTERS </td>       <td>H06075   </td>              <td> HEAD@789</td></tr>
+</table>
+VEHICLE DETAILS :           
+<table>
+<th>BASE_NAME</th>           <th>MAJOR_ID</th>                 <th>PASSWORD</th>
+<tr><td>BETA </td>             <td>E2BF38 </td>                 <td>BETA@111</td></tr>
+<tr><td>META   </td>           <td>E1MF36   </td>              <td> META@111</td></tr>
+<tr><td>PARA    </td>          <td>E3PF35   </td>              <td> PARA@111</td></tr>
+<tr><td>SOUL   </td>           <td>E4SF36   </td>              <td> SOUL@111</td></tr>
+<tr><td>HEAD QUARTERS</td>       <td> H06075 </td>               <td>  HEAD@111</td></tr>
 
-VEHICLE DETAILS :           BASE_NAME           MAJOR_ID                 PASSWORD
-                               BETA              E2BF38                  BETA@111
-                               META              E1MF36                  META@111
-                               PARA              E3PF35                  PARA@111
-                               SOUL              E4SF36                  SOUL@111
-                            HEAD QUARTERS        H06075                  HEAD@111
-
-
+</table>
 -> Finally you will be provided with some options like `Read details`,`insert details`,etc. According to your requirement you can choose your desired option. 
 
                                                THANK YOU!
