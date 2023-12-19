@@ -33,13 +33,15 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 AUTHORISATION :
 
-EMPLOYEE DETAILS :           BASE_NAME       FIELD_MARSHAL_ID            PASSWORD
-                               BETA              E2BF47                  BETA@123
-                               META              E1MF48                  META@123
-                               PARA              E3PF46                  PARA@123
-                               SOUL              E4SF47                  SOUL@123
-                            HEAD QUARTERS        H06075                  HEAD@123
-
+EMPLOYEE DETAILS : 
+<table>
+<th>BASE_NAME</th>       <th>FIELD_MARSHAL_ID  </th>         <th> PASSWORD</th>
+<tr><td>BETA</td>              <td>E2BF47</td>                  <td>BETA@123</td></tr>
+<td>META  </td>            <td>E1MF48  </td>                <td>META@123</td>
+<td>PARA  </td>            <td>E3PF46  </td>                <td>PARA@123</td>
+<td>SOUL   </td>           <td>E4SF47   </td>               <td>SOUL@123</td>
+<td>HEAD QUARTERS </td>       <td>H06075    </td>              <td>HEAD@123</td>
+</table>
 WEAPON DETAILS :           BASE_NAME           GENERAL_ID                PASSWORD
                                BETA              E2BF43                  BETA@456
                                META              E1MF41                  META@456
